@@ -38,7 +38,7 @@ export function Navbar({ onMenu }: NavbarProps) {
 
           <div className="flex items-center gap-2.5 pl-2 sm:pl-3 sm:border-l border-border">
             <div className="size-9 rounded-full bg-gradient-primary grid place-items-center font-semibold text-primary-foreground text-sm shadow-elegant">
-              AK
+              KP
             </div>
             <div className="hidden sm:block leading-tight">
               <p className="text-sm font-medium">Karnika Parmar</p>
